@@ -1,2 +1,2 @@
 # project1
-its a master pproject
+its a master project
